@@ -14,10 +14,10 @@
     <Item Name="December">Dezembro</Item>
   </Months>
   <MainMenu>
-    <Item Name="New Game">Novo Jogo</Item>
+    <Item Name="New Game">Novo jogo</Item>
     <Item Name="Options">Opções</Item>
     <Item Name="Continue">Continuar</Item>
-    <Item Name="Load Game">Carregar Jogo</Item>
+    <Item Name="Load Game">Carregar jogo</Item>
     <Item Name="Quit">Sair</Item>
     <Item Name="Credits">Créditos</Item>
   </MainMenu>
@@ -56,7 +56,7 @@
     <Item Name="HR">RH</Item>
     <Item Name="Finance">Finanças</Item>
     <Item Name="Marketplace">Mercado</Item>
-    <Item Name="MainDevSoft">Projetar Softwares</Item>
+    <Item Name="MainDevSoft">Projetar softwares</Item>
     <Item Name="MainDevSoftDesc">Projete e lance seus próprio software</Item>
     <Item Name="MainPlayerRelease">Seus lançamentos</Item>
     <Item Name="MainPlayerReleaseDesc">Veja uma lista dos seus produtos</Item>
@@ -95,7 +95,7 @@
     <Item Name="RoomLabelsDesc">Alterna e exibição de etiquetas em todos cômodos, especificando a qual time pertencem e quais limites de uso se aplicam.</Item>
     <Item Name="WireMode">Alterne o modo de ligação</Item>
     <Item Name="WireModeDesc">Use isso para conectar os servidores</Item>
-    <Item Name="Dataoverlay">Cor dos dados</Item>
+    <Item Name="Dataoverlay">Cor de dados</Item>
     <Item Name="DataoverlayDesc">Clique para fazer a cor do cômodo refletir o estado atual do cômodo</Item>
     <Item Name="BuildMode">Modo de construção</Item>
     <Item Name="BuildModeDesc">Clique para ativar o modo de construção, onde você contrói e mobilia seu(s) escritório(s) e contrói cômodos e estacionamento</Item>
@@ -223,7 +223,7 @@
     <Item Name="EULA">EULA</Item>
   </WindowTitles>
   <DesignWindow>
-    <Item Name="Action">Ação</Item>
+    <Item Name="Action">Clique abaixo</Item>
     <Item Name="In-house">Particular</Item>
     <Item Name="Add">Adicionar</Item>
     <Item Name="Remove">Remover</Item>
@@ -252,14 +252,14 @@
     <Item Name="BalanceAmount3">Médio</Item>
     <Item Name="BalanceAmount4">Alto</Item>
     <Item Name="BalanceAmount5">Muito alto</Item>
-    <Item Name="ScopeTier1">Pequeno</Item>
-    <Item Name="ScopeTier2">Médio</Item>
+    <Item Name="ScopeTier1">Pequena</Item>
+    <Item Name="ScopeTier2">Média</Item>
     <Item Name="ScopeTier3">Grande</Item>
     <Item Name="QualityAmount1">Horrível</Item>
     <Item Name="QualityAmount2">Ruim</Item>
     <Item Name="QualityAmount3">Medíocre</Item>
-    <Item Name="QualityAmount4">Bom</Item>
-    <Item Name="QualityAmount5">Otimo</Item>
+    <Item Name="QualityAmount4">Boa</Item>
+    <Item Name="QualityAmount5">Ótima</Item>
     <Item Name="QualityAmount6">Incrível</Item>
     <Item Name="PerceptionAmount1">Esquecido</Item>
     <Item Name="PerceptionAmount2">Apagado</Item>
@@ -709,7 +709,7 @@ Quer pergar um empréstimo de {1} para evitar a falência?</Item>
     <Item Name="SupportTickets">{0} tickets na fila</Item>
     <Item Name="CancelSupport">Cancelar suporte</Item>
     <Item Name="MarketingFundsOut">Acabaram os recursos da sua campanha de marketing</Item>
-    <Item Name="MarketingStage">Fale com a imprensa</Item>
+    <Item Name="MarketingStage">Falando com a imprensa</Item>
     <Item Name="MarketingBalance">Líquido</Item>
     <Item Name="DesignStageStockWait">Esperando aprovação</Item>
     <Item Name="DesignStageDesigning">Projetando</Item>
@@ -823,10 +823,10 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
   <Item Name="Lead">Liderar</Item>
   <Item Name="Leader">Líder</Item>
   <Item Name="Designer">Projetista</Item>
-  <Item Name="Programmer">Programador</Item>
+  <Item Name="Programmer">Programar</Item>
   <Item Name="Artist">Artista</Item>
   <Item Name="Marketer">Marketeiro</Item>
-  <Item Name="Take any job">Aceitar qualquer serviço</Item>
+  <Item Name="Take any job">Aceitar qualquer função</Item>
   <Item Name="Any role">Qualquer função</Item>
   <Item Name="Any">Qualquer</Item>
   <Item Name="All">Todos</Item>
@@ -936,20 +936,20 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
     <Item Name="DiedNotify">{0} morreu!</Item>
     <Item Name="HospitalizedNotify">{0} se envolveu em um acidente e saiu da empresa!</Item>
     <Item Name="Skip day">Pular dia</Item>
-    <Item Name="CompanyLoadMsg">Active companies</Item>
-    <Item Name="TeamCompat0">N/A</Item>
-    <Item Name="TeamCompat1">Extremely bad</Item>
-    <Item Name="TeamCompat2">Very bad</Item>
-    <Item Name="TeamCompat3">Bad</Item>
+    <Item Name="CompanyLoadMsg">Empresas ativas</Item>
+    <Item Name="TeamCompat0">N/D</Item>
+    <Item Name="TeamCompat1">Extremamente ruim</Item>
+    <Item Name="TeamCompat2">Muito ruim</Item>
+    <Item Name="TeamCompat3">Ruim</Item>
     <Item Name="TeamCompat4">Normal</Item>
-    <Item Name="TeamCompat5">Good</Item>
-    <Item Name="TeamCompat6">Great</Item>
-    <Item Name="TeamCompat7">Amazing</Item>
-    <Item Name="ITBrokeWarning">Some electronic equipment broke and needs IT-support</Item>
-    <Item Name="SheetBalance">Balance</Item>
-    <Item Name="Thoughts">Thoughts</Item>
-    <Item Name="Ideal salary">Ideal salary</Item>
-    <Item Name="Any job">Any job</Item>
+    <Item Name="TeamCompat5">Bom</Item>
+    <Item Name="TeamCompat6">Ótimo</Item>
+    <Item Name="TeamCompat7">Incrível</Item>
+    <Item Name="ITBrokeWarning">Equipamentos eletrônicos estragaram e precisam de suporte técnico</Item>
+    <Item Name="SheetBalance">Saldo</Item>
+    <Item Name="Thoughts">Pensamentos</Item>
+    <Item Name="Ideal salary">Salário ideal</Item>
+    <Item Name="Any job">Qualquer função</Item>
   </Alpha4.5>
   <Alpha4.6>
     <Item Name="NoPeeOptions">Não há lugar para fazer xixi</Item>
