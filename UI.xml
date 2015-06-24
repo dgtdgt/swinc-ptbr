@@ -92,20 +92,20 @@
     <Item Name="HideLamps">Alternar lâmpadas</Item>
     <Item Name="HideLampsDesc">Alterne a exibição da mobília que está no teto</Item>
     <Item Name="RoomLabels">Etiquetas de Cômodo</Item>
-    <Item Name="RoomLabelsDesc">Alterna e exibição de etiquetas em todas salas, especificando a qual time pertencem e quais limites de uso se aplicam.</Item>
+    <Item Name="RoomLabelsDesc">Alterna e exibição de etiquetas em todos cômodos, especificando a qual time pertencem e quais limites de uso se aplicam.</Item>
     <Item Name="WireMode">Alterne o modo de ligação</Item>
     <Item Name="WireModeDesc">Use isso para conectar os servidores</Item>
     <Item Name="Dataoverlay">Cor dos dados</Item>
     <Item Name="DataoverlayDesc">Clique para fazer a cor do cômodo refletir o estado atual do cômodo</Item>
     <Item Name="BuildMode">Modo de construção</Item>
-    <Item Name="BuildModeDesc">Clique para ativar o modo de construção, onde você contrói e mobilia seu(s) escritório(s) e contrói salas e estacionamento</Item>
+    <Item Name="BuildModeDesc">Clique para ativar o modo de construção, onde você contrói e mobilia seu(s) escritório(s) e contrói cômodos e estacionamento</Item>
     <Item Name="Monthly profits">Lucros mensais</Item>
     <Item Name="SkipTime">Pule o tempo não usado</Item>
     <Item Name="SkipTimeDesc">Se não tiver ninguém por perto, adiente o tempo até alguém chegar</Item>
     <Item Name="Contruct">Construir</Item>
-    <Item Name="ContructHint">Construa salas, portas, elevadores e janelas</Item>
+    <Item Name="ContructHint">Construa cômodos, portas, elevadores e janelas</Item>
     <Item Name="Furnish">Mobiliar</Item>
-    <Item Name="FurnishHint">Coloque várias mobílias em suas salas para fazê-las funcionais</Item>
+    <Item Name="FurnishHint">Coloque várias mobílias em seus cômodos para fazê-los funcionais</Item>
     <Item Name="Roads">Estradas</Item>
     <Item Name="RoadsHint">Construa estradas e estacionamento para fazer o trajeto ao trabalho mais rápido para os empregados</Item>
   </MainPanel>
@@ -486,7 +486,7 @@ Até {0} por reparo</Item>
     <Item Name="LoveWork">Amo trabalhar</Item>
     <Item Name="TooManyJobs">Tenho muitos trabalhos ao mesmo tempo</Item>
     <Item Name="BadWageNeg">Não estou feliz quanto à última negociação de salário</Item>
-    <Item Name="GoodSalary">Estou muito feliz com meu trabalho</Item>
+    <Item Name="GoodSalary">Estou muito feliz com meu salário</Item>
     <Item Name="IsFreezing">Estou congelando</Item>
     <Item Name="IsBurning">Estou assando</Item>
     <Item Name="NoSee">Não consigo ver nada</Item>
