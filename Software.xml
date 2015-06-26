@@ -74,7 +74,7 @@ A maioria dos softwares precisa de um Sistema Operacional para rodar. Quando as 
     </Features>
   </Software>
   <Software Name="Audio Tool">
-    <Name>Ferramenta de Audio</Name>
+    <Name>Ferramenta de Áudio</Name>
     <Description>A ferramenta de áudio é usada para gravar e mixar efeitos sonoros e música.</Description>
     <Features>
       <Feature Name="Audio playback">
