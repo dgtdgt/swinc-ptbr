@@ -68,7 +68,7 @@
     <Description>Jogue um pó preto na água quente e talvez fique menos cansado depois?</Description>
   </Furniture>
   <Furniture Name="Coffee">
-    <Name>Café</Name>
+    <Name>Cafeteira</Name>
     <Description>Sua máquina comum de café</Description>
   </Furniture>
   <Furniture Name="Espresso Machine">
