@@ -130,10 +130,10 @@
     <Item Name="Tier">Classe</Item>
     <Item Name="Scope">Alcance</Item>
     <Item Name="Company">Empresa</Item>
-    <Item Name="Release">Release</Item>
+    <Item Name="Release">Lançamento</Item>
     <Item Name="Quality">Qualidade</Item>
     <Item Name="Popularity">Popularidade</Item>
-    <Item Name="License">Licensa</Item>
+    <Item Name="License">Licença</Item>
     <Item Name="Profit">Lucro</Item>
     <Item Name="Open source">Código aberto</Item>
     <Item Name="Loss">Gasto</Item>
@@ -154,7 +154,7 @@
     <Item Name="Cost">Custo</Item>
     <Item Name="Sell">Vender</Item>
     <Item Name="Buy">Comprar</Item>
-    <Item Name="Count">Número</Item>
+    <Item Name="Count">Quantidade</Item>
     <Item Name="Compatibility">Compatibilidade</Item>
     <Item Name="Work">Serviços</Item>
     <Item Name="Employees">Empregados</Item>
@@ -214,7 +214,6 @@
     <Item Name="Insurance">Seguro</Item>
     <Item Name="Save games">Salvar jogos</Item>
     <Item Name="Staff">Pessoal</Item>
-    <Item Name="Marketing">Marketing</Item>
     <Item Name="Servers">Servidores</Item>
     <Item Name="Education">Educação</Item>
     <Item Name="Materials">Materiais</Item>
@@ -252,8 +251,8 @@
     <Item Name="BalanceAmount3">Médio</Item>
     <Item Name="BalanceAmount4">Alto</Item>
     <Item Name="BalanceAmount5">Muito alto</Item>
-    <Item Name="ScopeTier1">Pequena</Item>
-    <Item Name="ScopeTier2">Média</Item>
+    <Item Name="ScopeTier1">Pequeno</Item>
+    <Item Name="ScopeTier2">Médio</Item>
     <Item Name="ScopeTier3">Grande</Item>
     <Item Name="QualityAmount1">Horrível</Item>
     <Item Name="QualityAmount2">Ruim</Item>
@@ -399,7 +398,7 @@ Até {0} por reparo</Item>
     <Item Name="Hard">Difícil</Item>
     <Item Name="Gameplay">Jogabilidade</Item>
     <Item Name="Graphics">Gráficos</Item>
-    <Item Name="Audio">Audio</Item>
+    <Item Name="Audio">Áudio</Item>
     <Item Name="Keys">Teclas</Item>
     <Item Name="Resolution">Resolução</Item>
     <Item Name="Fullscreen">Tela cheia</Item>
@@ -466,7 +465,7 @@ Até {0} por reparo</Item>
     <Item Name="Repairing">Consertando</Item>
     <Item Name="Looking for dirty room">Procurando cômodo sujo</Item>
     <Item Name="Going to clean room">Indo limpar cômodo</Item>
-    <Item Name="Cleaning">Limpando</Item>
+    <Item Name="Cleaning">Limpeza</Item>
     <Item Name="Looking for dirt">Procurando por sujeira</Item>
     <Item Name="In class">Em aula</Item>
     <Item Name="Dismissed">Dispensado</Item>
@@ -509,7 +508,7 @@ Até {0} por reparo</Item>
     <Item Name="UnsatisfiedEmployeesWarning">Alguns empregados estão infelizes com seus serviços</Item>
     <Item Name="StarvingWarning">Um empregado está faminto e com problemas de trabalhar</Item>
     <Item Name="HasToPeeWarning">O empregado tem que fazer xixi e está com dificuldades de trabalhar</Item>
-    <Item Name="WornOutWarning">Um empregado está cansado e não pode trabalhar</Item>
+    <Item Name="WornOutWarning">Um empregado está cansado e não consegue trabalhar</Item>
     <Item Name="FreezingWarning">Um empregado está congelando</Item>
     <Item Name="BurningWarning">Um empregado está com calor</Item>
     <Item Name="NoSeeWarning">Um empregado está trombando pelo escuro</Item>
@@ -686,7 +685,7 @@ Quer pergar um empréstimo de {1} para evitar a falência?</Item>
     <Item Name="ActionChange Role">Mudar função do empregado</Item>
     <Item Name="ActionSend home">Mandar empregado para casa</Item>
     <Item Name="ActionFurniture color">Cor da mobília</Item>
-    <Item Name="ActionTypes in Room">Selecionar os tipos de mobília no cômodo selecionado</Item>
+    <Item Name="ActionTypes in Room">Selecionar toda mobília no cômodo selecionado</Item>
     <Item Name="ActionDetails">Detalhes do empregado</Item>
     <Item Name="ActionChange Salary">Mudar o salário do empregado</Item>
     <Item Name="ActionSelect Team">Selecionar o time inteiro</Item>
@@ -721,7 +720,7 @@ Quer pergar um empréstimo de {1} para evitar a falência?</Item>
     <Item Name="AlphaNoProgress">Não há como promover o alpha porque nenhum trabalho foi feito</Item>
     <Item Name="AlphaNoProgressTitle">Não há como promover</Item>
     <Item Name="ContractCancel">Perdeu {0} ao cancelar o contrato</Item>
-    <Item Name="ContractFinish">Finalizou o contrado pelo valor líquido de {0}</Item>
+    <Item Name="ContractFinish">Finalizou o contrato com lucro líquido de {0}</Item>
     <Item Name="Alpha">Alpha</Item>
     <Item Name="Beta">Beta</Item>
     <Item Name="Promote">Promover</Item>
@@ -729,7 +728,7 @@ Quer pergar um empréstimo de {1} para evitar a falência?</Item>
     <Item Name="Delay">Atraso</Item>
     <Item Name="NoBugs">Não há bugs para consertar</Item>
     <Item Name="StillBugs">Consertou {0} bugs</Item>
-    <Item Name="ContractState">{0} meses faltando - Objetivo: {1}%</Item>
+    <Item Name="ContractState">{0} mês(es) faltando - Objetivo: {1}%</Item>
     <Item Name="ReleaseMarketingHint">Quer começar o marketing de {0} agora?
 O marketing é crucial para o sucesso de seus produtos.
 Você pode começar a campanha após lançar um produto a qualquer hora clicando no botão "Meus lançamentos"</Item>
@@ -805,7 +804,7 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
   <Item Name="Unassigned">Não delegado</Item>
   <Item Name="SaveName">Entre nome do jogo salvo...</Item>
   <Item Name="Save">Salvar</Item>
-  <Item Name="Load">Carregar</Item>
+  <Item Name="Load">Carga</Item>
   <Item Name="Apply">Aplicar</Item>
   <Item Name="New team">Novo time</Item>
   <Item Name="Team name">Nome do time</Item>
@@ -820,13 +819,13 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
   <Item Name="Base skill">Habilidade de base</Item>
   <Item Name="Marketing">Marketing</Item>
   <Item Name="Support">Suporte</Item>
-  <Item Name="Lead">Liderar</Item>
+  <Item Name="Lead">Líder</Item>
   <Item Name="Leader">Líder</Item>
   <Item Name="Designer">Projetista</Item>
-  <Item Name="Programmer">Programar</Item>
+  <Item Name="Programmer">Programador</Item>
   <Item Name="Artist">Artista</Item>
   <Item Name="Marketer">Marketeiro</Item>
-  <Item Name="Take any job">Aceitar qualquer função</Item>
+  <Item Name="Take any job">Qualquer função</Item>
   <Item Name="Any role">Qualquer função</Item>
   <Item Name="Any">Qualquer</Item>
   <Item Name="All">Todos</Item>
@@ -839,7 +838,7 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
   <Item Name="Educate">Educar</Item>
   <Item Name="Interior">Interior</Item>
   <Item Name="Exterior">Exterior</Item>
-  <Item Name="Floor">Andar</Item>
+  <Item Name="Floor">Chão</Item>
   <Item Name="Usage">Uso</Item>
   <Item Name="None">Nenhum</Item>
   <Item Name="Primary">Primário</Item>
@@ -847,8 +846,8 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
   <Item Name="Tertiary">Terciário</Item>
   <Item Name="RoomBuildHint">Divida, una e expanda cômodos</Item>
   <Item Name="SkipTimeHint">Clique aqui quando estiver pronto para seu primeiro dia</Item>
-  <Item Name="BankruptcyHint">Você está caminhando à falência</Item>
-  <Item Name="RotateFurnHint">Clique e arraste para rodar sua mobília</Item>
+  <Item Name="BankruptcyHint">Você está indo à falência</Item>
+  <Item Name="RotateFurnHint">Clique e arraste para girar sua mobília</Item>
   <Item Name="Development">Desenvolvimento</Item>
   <Item Name="SearchBar">Escreva para procurar...</Item>
   <Item Name="Inventor">Inventor</Item>
@@ -942,8 +941,8 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
     <Item Name="TeamCompat2">Muito ruim</Item>
     <Item Name="TeamCompat3">Ruim</Item>
     <Item Name="TeamCompat4">Normal</Item>
-    <Item Name="TeamCompat5">Bom</Item>
-    <Item Name="TeamCompat6">Ótimo</Item>
+    <Item Name="TeamCompat5">Boa</Item>
+    <Item Name="TeamCompat6">Ótima</Item>
     <Item Name="TeamCompat7">Incrível</Item>
     <Item Name="ITBrokeWarning">Equipamentos eletrônicos estragaram e precisam de suporte técnico</Item>
     <Item Name="SheetBalance">Saldo</Item>
@@ -971,7 +970,7 @@ Clique com o botão direito para desselecionar e cancelar.</Item>
 Quer mesmo continuar?</Item>
     <Item Name="RoomLowEnv">É entendiante olhar para este cômodo</Item>
     <Item Name="FurnitureBlockedStaff">Há mobília que o pessoal não consegue alcançar</Item>
-    <Item Name="DesignDetailBoxNew">Tempo estimado de conclusão: {3}
+    <Item Name="DesignDetailBoxNew">Tempo estimado: {3}
 Artistas necessários: {7}
 Interesse esperado: {0}
 Inovação: {4}
@@ -979,7 +978,7 @@ Estabilidade: {5}
 Usabilidade: {6}
 Cobertura de SOs: {1}%
 Custos de licença: {2}
-Tamanho recomendado do time: {8}</Item>
+Tamanho bom para time: {8}</Item>
     <Item Name="Available contracts">Contratos disponíveis</Item>
     <Item Name="Finished contracts">Contratos finalizados</Item>
     <Item Name="ContractResultBreakdown">Faturamento: {0}
@@ -990,7 +989,7 @@ Penalidade por qualidade: {4}
 Penalidade por cancelamento: {5}
 Lucro líquido: {6}
 Entregue {7}</Item>
-    <Item Name="ContractEarly">{0} mês(es) cedo</Item>
+    <Item Name="ContractEarly">{0} mês(es) adiantado</Item>
     <Item Name="ContractLate">{0} mês(es) atrasado</Item>
     <Item Name="ContractOnTime">A tempo</Item>
     <Item Name="CloneToolTitle">Ferramenta de clone</Item>
